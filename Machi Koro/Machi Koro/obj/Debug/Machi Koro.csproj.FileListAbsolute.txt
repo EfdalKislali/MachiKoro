@@ -1,0 +1,23 @@
+C:\Users\bergs\source\repos\Machi Koro\Machi Koro\bin\Debug\Machi Koro.exe.config
+C:\Users\bergs\source\repos\Machi Koro\Machi Koro\bin\Debug\Machi Koro.exe
+C:\Users\bergs\source\repos\Machi Koro\Machi Koro\bin\Debug\Machi Koro.pdb
+C:\Users\bergs\source\repos\Machi Koro\Machi Koro\obj\Debug\Machi Koro.csproj.AssemblyReference.cache
+C:\Users\bergs\source\repos\Machi Koro\Machi Koro\obj\Debug\Machi_Koro.Properties.Resources.resources
+C:\Users\bergs\source\repos\Machi Koro\Machi Koro\obj\Debug\Machi Koro.csproj.GenerateResource.cache
+C:\Users\bergs\source\repos\Machi Koro\Machi Koro\obj\Debug\Machi Koro.csproj.CoreCompileInputs.cache
+C:\Users\bergs\source\repos\Machi Koro\Machi Koro\obj\Debug\Machi Koro.exe
+C:\Users\bergs\source\repos\Machi Koro\Machi Koro\obj\Debug\Machi Koro.pdb
+C:\Users\bergs\source\repos\Machi Koro\Machi Koro\obj\Debug\Machi_Koro.Form1.resources
+C:\Users\bergs\source\repos\Machi Koro\Machi Koro\obj\Debug\Machi_Koro.Form2.resources
+C:\Users\bergs\source\repos\Machi Koro\Machi Koro\obj\Debug\Machi_Koro.Form3.resources
+C:\Users\Efdal\OneDrive - ZuydHogeschool\Casus blok 2\machi koro\Machi Koro\Machi Koro\bin\Debug\Machi Koro.exe.config
+C:\Users\Efdal\OneDrive - ZuydHogeschool\Casus blok 2\machi koro\Machi Koro\Machi Koro\bin\Debug\Machi Koro.exe
+C:\Users\Efdal\OneDrive - ZuydHogeschool\Casus blok 2\machi koro\Machi Koro\Machi Koro\bin\Debug\Machi Koro.pdb
+C:\Users\Efdal\OneDrive - ZuydHogeschool\Casus blok 2\machi koro\Machi Koro\Machi Koro\obj\Debug\Machi Koro.csproj.AssemblyReference.cache
+C:\Users\Efdal\OneDrive - ZuydHogeschool\Casus blok 2\machi koro\Machi Koro\Machi Koro\obj\Debug\Machi_Koro.Form1.resources
+C:\Users\Efdal\OneDrive - ZuydHogeschool\Casus blok 2\machi koro\Machi Koro\Machi Koro\obj\Debug\Machi_Koro.Properties.Resources.resources
+C:\Users\Efdal\OneDrive - ZuydHogeschool\Casus blok 2\machi koro\Machi Koro\Machi Koro\obj\Debug\Machi Koro.csproj.GenerateResource.cache
+C:\Users\Efdal\OneDrive - ZuydHogeschool\Casus blok 2\machi koro\Machi Koro\Machi Koro\obj\Debug\Machi Koro.csproj.CoreCompileInputs.cache
+C:\Users\Efdal\OneDrive - ZuydHogeschool\Casus blok 2\machi koro\Machi Koro\Machi Koro\obj\Debug\Machi Koro.exe
+C:\Users\Efdal\OneDrive - ZuydHogeschool\Casus blok 2\machi koro\Machi Koro\Machi Koro\obj\Debug\Machi Koro.pdb
+C:\Users\Efdal\OneDrive - ZuydHogeschool\Casus blok 2\machi koro\Machi Koro\Machi Koro\obj\Debug\Machi_Koro.Player.resources
